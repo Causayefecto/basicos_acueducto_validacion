@@ -1,0 +1,17 @@
+{
+"companyName": "CyE",
+"productName": "Basicos_Validacion",
+"productVersion": "0.1",
+"dataUrl": "basicos_acueducto_validacion.data.unityweb",
+"wasmCodeUrl": "basicos_acueducto_validacion.wasm.code.unityweb",
+"wasmFrameworkUrl": "basicos_acueducto_validacion.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "basicos_acueducto_validacion.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
